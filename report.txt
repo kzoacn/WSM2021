@@ -1,0 +1,22 @@
+1.Support tolerant(fuzzy) search
+
+wrongly type:
+Support *s, *es => *
+
+wildcard:
+Support at most one wildcard
+
+2. Support several ranking methods.
+
+We support
+1)JACCARD
+2)LOGFREQUENCY
+3)TF-IDF
+4)a varient of TF-IDF
+5)another varient of TF-IDF
+
+3. Speed
+Written in C++, so of course, FAST!
+
+4.GUI
+.NET 
