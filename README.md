@@ -3,13 +3,17 @@ WSM2021 Homework
 
 
 ## Compile
+```
 g++ pugixml.cpp main.cpp -o main -O2
 g++ pugixml.cpp sock.cpp -o sock -O2
-
+```
 
 ## Config
 
-Download some xml from (https://dumps.wikimedia.org/enwiki/latest/)[here]
+Download some xml files from https://dumps.wikimedia.org/enwiki/latest/
+
+unzip them
+
 Add it to the xml\_list
 
 ## Run
