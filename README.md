@@ -16,7 +16,7 @@ unzip them
 
 Add it to the xml\_list
 
-A single xml file must not exceed 512MB
+A single xml file must not exceed 1024MB
 
 ## Run
 

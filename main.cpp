@@ -19,7 +19,7 @@ using namespace pugi;
 #define RANKING_TFIDFV3
 
 
-const int buf_len=512*(1<<20);//512MB
+const int buf_len=1024*(1<<20);//512MB
 char buf[buf_len];
 
 
